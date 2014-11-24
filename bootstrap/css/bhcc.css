@@ -1,0 +1,72 @@
+body {
+      	padding-top: 5px;
+      	padding-bottom: 40px;
+		/*background:#E1E4E8*/
+
+      	}
+
+h1, h2,h3,h4,h5,h6 p, li, ul{
+		color:#0D355D;font-family: 'Verdana', Geneva, sans-serif;
+			
+		}
+
+p, td {
+	font-family: Tahoma, Verdana, Segoe, sans-serif; color:#0D355D;
+	
+	
+	}
+.navlinks{
+		font-family: Tahoma, Verdana, Segoe, sans-serif;
+		font-size: 15px;
+	 	color: #0D559D;
+			  }
+.bhccAbout{
+
+		font-family: Tahoma, Verdana, Segoe, sans-serif;
+		font-size: 15px;
+		color:#FFF;
+		padding-left:15px;
+		padding-right:15px;
+		/*padding-top:15px;
+		padding-bottom:15px;*/
+		}
+		
+#bhccAboutBackground{
+			
+		background-color: #0D355D;
+		
+		/*margin: 0 auto;*/
+
+		}
+.caption {
+		
+		font-family: Tahoma, Verdana, Segoe, sans-serif;
+		font-size: 12px;
+		color: #fff;
+		text-align: left;
+}
+
+.caption-background{
+	
+		
+		height:25px;
+  		position:absolute;
+  		display: block;
+  		bottom: -10px;
+  		left: 0;
+  		right: 0;
+		padding: 10px;
+ 		background: #0D355D;
+		filter: alpha(opacity=85); /* internet explorer */
+		-khtml-opacity: 0.85;      /* khtml, old safari */
+		-moz-opacity: 0.85;       /* mozilla, netscape */
+		opacity: 0.85;           /* fx, safari, opera */
+	
+	
+	
+	
+	}
+	
+
+
+	  
