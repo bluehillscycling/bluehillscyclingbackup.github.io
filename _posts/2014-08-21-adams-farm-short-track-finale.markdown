@@ -19,91 +19,136 @@ categories:
 tags: []
 comments: []
 ---
-<p>The Adams Farm Short Track Series concluded this week with the 4th Short Track Race. Last nights race was wicked fast! Thanks to everyone for coming out, we look forward seeing everyone in 2015!</p>
-<p><a href="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;08&#47;adams-farm-mtb-166_small.jpg"><img class="alignnone size-full wp-image-620" alt="adams-farm-mtb-166_small" src="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;08&#47;adams-farm-mtb-166_small.jpg" width="500" height="263" &#47;><&#47;a></p>
+
 <table>
+
 <tbody>
+
 <tr>
-<th><&#47;th></p>
+
+<th></th>
+
 <th align="left">
-<h5>A RACE:<&#47;h5><br />
-<&#47;th></p>
+
+<h5>A RACE:</h5>
+
+</th>
+
 <th>
-<h5>Points<&#47;h5><br />
-<&#47;th></p>
-<th><&#47;th></p>
+
+<h5>Points</h5>
+
+</th>
+
+<th></th>
+
 <th align="left">
-<h5>B RACE:<&#47;h5><br />
-<&#47;th></p>
+
+<h5>B RACE:</h5>
+
+</th>
+
 <th>
-<h5>Points<&#47;h5><br />
-<&#47;th><br />
-<&#47;tr><br />
-<&#47;tbody></p>
+
+<h5>Points</h5>
+
+</th>
+
+</tr>
+
+</tbody>
+
 <tbody>
+
 <tr>
-<td style="padding-right: 8px">1<br />
-2<br />
-3<br />
-4<br />
-5<br />
-6<br />
-7<br />
-8<br />
-9<br />
-10<&#47;td></p>
-<td style="padding-right: 8px">Cameron Cogburn<br />
-Tyler Eusden<br />
-Charles Schubert<br />
-Jay Mueller<br />
-Jeff Fairbanks<br />
-Will Crissman<br />
-John Peterson<br />
-Steve Segenchuk<br />
-Matt Sousa<br />
-Mark Budreski<&#47;td></p>
-<td>60<br />
-55<br />
-50<br />
-45<br />
-40<br />
-35<br />
-30<br />
-25<br />
-20<br />
-15<&#47;td></p>
-<td style="padding-right: 8px">1<br />
-2<br />
-3<br />
-4<br />
-5<br />
-6<br />
-7<br />
-8<br />
-9<br />
-10<&#47;td></p>
-<td style="padding-right: 8px">Kevin Brandt<br />
-Paul Curly<br />
-Peter Kuhn<br />
-Chad Baker<br />
-Chapell Miller<br />
-Rick Tobin<br />
-George Lester<br />
-Jon Pell<br />
-Mike O'Donnell<br />
-Christine Fort<&#47;td></p>
-<td>60<br />
-55<br />
-50<br />
-45<br />
-40<br />
-35<br />
-30<br />
-25<br />
-20<br />
-15<&#47;td><br />
-<&#47;tr><br />
-<&#47;tbody><br />
-<&#47;table><br />
-&nbsp;</p>
-<p>&nbsp;</p>
+
+<td style="padding-right: 8px">
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+</td>
+
+<td style="padding-right: 8px">
+Cameron Cogburn		
+
+
+Tyler Eusden
+
+Charles Schubert
+
+Jay Mueller
+
+Jeff Fairbanks
+
+Will Crissman
+
+John Peterson
+
+Steve Segenchuk
+
+Matt Sousa
+
+Mark Budreski
+</td>
+
+<td>
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15</td>
+
+<td style="padding-right: 8px">
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10</td>
+
+<td style="padding-right: 8px">Kevin Brandt
+Paul Curly
+Peter Kuhn
+Chad Baker
+Chapell Miller
+Rick Tobin
+George Lester
+Jon Pell
+Mike O'Donnell
+Christine Fort</td>
+
+<td>60
+55
+50
+45
+40
+35
+30
+25
+20
+15</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+&nbsp;
+
