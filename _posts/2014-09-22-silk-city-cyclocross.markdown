@@ -19,22 +19,42 @@ categories:
 tags: []
 comments: []
 ---
-<h5>Silk City Cyclocross (Sep 13 2014)<&#47;h5></p>
+<h5>Silk City Cyclocross (Sep 13 2014)</h5>
+
 <table class="datatable1" width="100%">
+
 <tbody>
+
 <tr class="datarow2">
-<td>Adam<&#47;td></p>
-<td>Shutes<&#47;td></p>
-<td>Men Senior Cat 3&#47;4<&#47;td></p>
-<td width="70px">24 &#47; 63<&#47;td><br />
-<&#47;tr></p>
+
+<td>Adam</td>
+
+<td>Shutes</td>
+
+<td>Men Senior Cat 3/4</td>
+
+<td width="70px">24 / 63</td>
+
+</tr>
+
 <tr class="datarow1">
-<td>John<&#47;td></p>
-<td>Golden<&#47;td></p>
-<td>Master 40+ Open<&#47;td></p>
-<td width="70px">16 &#47; 46<&#47;td><br />
-<&#47;tr><br />
-<&#47;tbody><br />
-<&#47;table><br />
-<a href="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;09&#47;adam41.png"><img class="alignnone size-full wp-image-669" alt="adam4" src="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;09&#47;adam41.png" width="500" height="331" &#47;><&#47;a></p>
-<p>&nbsp;</p>
+
+<td>John</td>
+
+<td>Golden</td>
+
+<td>Master 40+ Open</td>
+
+<td width="70px">16 / 46</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/09/adam41.png"><img class="alignnone size-full wp-image-669" alt="adam4" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/09/adam41.png" width="500" height="331" /></a>
+
+
+
+	

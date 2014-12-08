@@ -19,59 +19,115 @@ categories:
 tags: []
 comments: []
 ---
-<p>The Blue Hills Race Team kicked off the 2014 CX season in Maynard, MA this past Sunday at the 8th annual QuadCross CX Race. </p>
-<p>Congrats to Mike Morse for a win in the Men 4&#47;5 race!</p>
-<p><a href="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;09&#47;quad.jpg"><img class="alignnone size-full wp-image-647" alt="quad" src="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;09&#47;quad.jpg" width="498" height="263" &#47;><&#47;a></p>
+
+<p>The Blue Hills Race Team kicked off the 2014 CX season in Maynard, MA this past Sunday at the 8th annual QuadCross CX Race. Congrats to Mike Morse for a win in the Men 4/5 race!
+</p>
+
+
+
+
+<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/09/quad.jpg"><img class="alignnone size-full wp-image-647" alt="quad" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/09/quad.jpg" width="498" height="263" /></a>
+
 <table class="datatable1" width="100%">
+
 <tbody>
+
 <tr>
+
 <td class="headerrow3" colspan="5">
-<h5>QuadCross (Sep 7, 2014)<&#47;h5><br />
-<&#47;td><br />
-<&#47;tr></p>
+
+<h5>QuadCross (Sep 7, 2014)</h5>
+
+</td>
+
+</tr>
+
 <tr class="datarow1">
-<td>John<&#47;td></p>
-<td>Golden<&#47;td></p>
-<td>MEN CAT 1&#47;2&#47;3<&#47;td></p>
-<td width="70px">24&#47;33<&#47;td><br />
-<&#47;tr></p>
+
+<td>John</td>
+
+<td>Golden</td>
+
+<td>MEN CAT 1/2/3</td>
+
+<td width="70px">24/33</td>
+
+</tr>
+
 <tr class="datarow2">
-<td>Kevin<&#47;td></p>
-<td>Brandt<&#47;td></p>
-<td>MEN CAT 1&#47;2&#47;3&#47;4 Masters 40+<&#47;td></p>
-<td width="70px">13&#47;36<&#47;td><br />
-<&#47;tr></p>
+
+<td>Kevin</td>
+
+<td>Brandt</td>
+
+<td>MEN CAT 1/2/3/4 Masters 40+</td>
+
+<td width="70px">13/36</td>
+
+</tr>
+
 <tr class="datarow1">
-<td>Mike<&#47;td></p>
-<td>Morse<&#47;td></p>
-<td>MEN CAT 4&#47;5<&#47;td></p>
-<td width="70px">1&#47;33<&#47;td><br />
-<&#47;tr></p>
+
+<td>Mike</td>
+
+<td>Morse</td>
+
+<td>MEN CAT 4/5</td>
+
+<td width="70px">1/33</td>
+
+</tr>
+
 <tr class="datarow1">
-<td>Brian<&#47;td></p>
-<td>Albert<&#47;td></p>
-<td>MEN CAT 4&#47;5<&#47;td></p>
-<td width="70px">26&#47;33<&#47;td><br />
-<&#47;tr></p>
+
+<td>Brian</td>
+
+<td>Albert</td>
+
+<td>MEN CAT 4/5</td>
+
+<td width="70px">26/33</td>
+
+</tr>
+
 <tr class="datarow1">
-<td>John<&#47;td></p>
-<td>Fice<&#47;td></p>
-<td>MEN CAT 4&#47;5 35+<&#47;td></p>
-<td width="70px">31&#47;67<&#47;td><br />
-<&#47;tr></p>
+
+<td>John</td>
+
+<td>Fice</td>
+
+<td>MEN CAT 4/5 35+</td>
+
+<td width="70px">31/67</td>
+
+</tr>
+
 <tr class="datarow1">
-<td>Mark<&#47;td></p>
-<td>Brownell<&#47;td></p>
-<td>MEN CAT 4&#47;5 35+<&#47;td></p>
-<td width="70px">39&#47;67<&#47;td><br />
-<&#47;tr></p>
+
+<td>Mark</td>
+
+<td>Brownell</td>
+
+<td>MEN CAT 4/5 35+</td>
+
+<td width="70px">39/67</td>
+
+</tr>
+
 <tr class="datarow1">
-<td>Patricia<&#47;td></p>
-<td>Brownell<&#47;td></p>
-<td>CAT 3&#47;4 Women<&#47;td></p>
-<td width="70px">14&#47;43<&#47;td><br />
-<&#47;tr><br />
-<&#47;tbody><br />
-<&#47;table><br />
-&nbsp;</p>
-<p>&nbsp;</p>
+
+<td>Patricia</td>
+
+<td>Brownell</td>
+
+<td>CAT 3/4 Women</td>
+
+<td width="70px">14/43</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+&nbsp;
