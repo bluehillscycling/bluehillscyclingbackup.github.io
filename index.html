@@ -63,13 +63,13 @@ home-page: "yes"
                 <a href="http://www.doctorsfootcare.net/" onclick="trackOutboundLink('http://www.doctorsfootcare.com/')"><img  src="/images/sponser/wynn.png" width = "100%"  alt="Doctors Foot Care"/></a>
                <!--<a href="http://www.switchbackmb.com" onclick="trackOutboundLink('http://www.switchbackmb.com/')"><img  src="/images/sponser/switchback.png" width = "100%"  alt="Switchback Magazine"/></a>-->
                 <!--<a href="http://honeybikes.com/" onclick="trackOutboundLink('http://honeybikes.com/')"><img  src="/images/sponser/honey.png" width = "100%"  alt="Honey Bikes"/></a>-->
-                
+                <h3>Archives</h3>
 <div class="accordion" id="accordion2">
 
 {% for post in site.posts %}
   {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if currentyear != year %}
-    {% unless forloop.first %}
+    {% unless forloop.first %}</ul>
         </div>
     </div>
     </div>
@@ -78,11 +78,11 @@ home-page: "yes"
     <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#{{ currentyear }}">
-        <h1>{{ currentyear }}</h1>
+        <h3>{{ currentyear }}</h3>
     </a>
     
       <div id="{{ currentyear }}" class="accordion-body collapse">
-      <div class="accordion-inner">
+      <div class="accordion-inner"><ul class="unstyled">
     {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
   
