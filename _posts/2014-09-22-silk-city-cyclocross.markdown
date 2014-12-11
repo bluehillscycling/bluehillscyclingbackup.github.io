@@ -3,21 +3,7 @@ layout: post
 status: publish
 published: true
 title: Silk City Cyclocross
-author:
-  display_name: Pedro
-  login: Pedro
-  email: pedro@bluehillscycling.com
-  url: ''
-author_login: Pedro
-author_email: pedro@bluehillscycling.com
-wordpress_id: 661
-wordpress_url: http://www.bluehillscycling.com/?p=661
-date: '2014-09-22 20:58:03 -0400'
-date_gmt: '2014-09-22 20:58:03 -0400'
-categories:
-- Uncategorized
-tags: []
-comments: []
+
 ---
 <h5>Silk City Cyclocross (Sep 13 2014)</h5>
 

@@ -3,21 +3,7 @@ layout: post
 status: publish
 published: true
 title: Holy Week of Cyclocross
-author:
-  display_name: Pedro
-  login: Pedro
-  email: pedro@bluehillscycling.com
-  url: ''
-author_login: Pedro
-author_email: pedro@bluehillscycling.com
-wordpress_id: 680
-wordpress_url: http://www.bluehillscycling.com/?p=680
-date: '2014-10-19 13:05:40 -0400'
-date_gmt: '2014-10-19 13:05:40 -0400'
-categories:
-- Uncategorized
-tags: []
-comments: []
+
 ---
 <p><a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/10/MMorse.jpg"><img class="alignnone size-full wp-image-684" alt="MMorse" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/10/MMorse.jpg" width="500" height="333" /></a></p>
 <table width="100%">

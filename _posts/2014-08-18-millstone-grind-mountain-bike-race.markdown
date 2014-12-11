@@ -3,21 +3,7 @@ layout: post
 status: publish
 published: true
 title: Millstone Grind Mountain Bike Race
-author:
-  display_name: Pedro
-  login: Pedro
-  email: pedro@bluehillscycling.com
-  url: ''
-author_login: Pedro
-author_email: pedro@bluehillscycling.com
-wordpress_id: 594
-wordpress_url: http://www.bluehillscycling.com/?p=594
-date: '2014-08-18 18:00:38 -0400'
-date_gmt: '2014-08-18 18:00:38 -0400'
-categories:
-- Uncategorized
-tags: []
-comments: []
+
 ---
 <p>Pete MacLeod and Pete Werner headed to Websterville. VT this past week to race in the Root66 Millstone Grind XC Mountain Bike Race. If you haven't been to this race, the course is awesome, lots of roots, lots of flow and a nice long 8 mile lap. Entry fee to the race included a an excellent post race meal and beer, with choices from BHCC Club Spenser Harpoon Brewery and the Alchemist's Heady Topper.
 Light rain began to fall a few hours before the race and ended just before the begining of the Pro/CAT1 races transforming the race into a very technically challenging event.</p>

@@ -3,21 +3,7 @@ layout: post
 status: publish
 published: true
 title: QuadCross
-author:
-  display_name: Pedro
-  login: Pedro
-  email: pedro@bluehillscycling.com
-  url: ''
-author_login: Pedro
-author_email: pedro@bluehillscycling.com
-wordpress_id: 644
-wordpress_url: http://www.bluehillscycling.com/?p=644
-date: '2014-09-09 16:26:38 -0400'
-date_gmt: '2014-09-09 16:26:38 -0400'
-categories:
-- Uncategorized
-tags: []
-comments: []
+
 ---
 
 <p>The Blue Hills Race Team kicked off the 2014 CX season in Maynard, MA this past Sunday at the 8th annual QuadCross CX Race. Congrats to Mike Morse for a win in the Men 4/5 race!

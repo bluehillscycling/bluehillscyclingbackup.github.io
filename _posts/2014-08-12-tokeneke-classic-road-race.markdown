@@ -3,21 +3,7 @@ layout: post
 status: publish
 published: true
 title: Tokeneke Classic Road Race
-author:
-  display_name: Pedro
-  login: Pedro
-  email: pedro@bluehillscycling.com
-  url: ''
-author_login: Pedro
-author_email: pedro@bluehillscycling.com
-wordpress_id: 585
-wordpress_url: http://www.bluehillscycling.com/?p=585
-date: '2014-08-12 12:22:11 -0400'
-date_gmt: '2014-08-12 12:22:11 -0400'
-categories:
-- Uncategorized
-tags: []
-comments: []
+
 ---
 <p>The road team represented the club well this past weekend at the Tokeneke Classic Road Race  Congratulations to Adam Shutes on another top 10 finish on an extremely tough course with over 4,000 ft of climbing!</p>
 

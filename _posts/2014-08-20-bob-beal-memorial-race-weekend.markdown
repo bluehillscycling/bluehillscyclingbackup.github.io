@@ -3,21 +3,7 @@ layout: post
 status: publish
 published: true
 title: Bob Beal Memorial Race Weekend
-author:
-  display_name: Pedro
-  login: Pedro
-  email: pedro@bluehillscycling.com
-  url: ''
-author_login: Pedro
-author_email: pedro@bluehillscycling.com
-wordpress_id: 608
-wordpress_url: http://www.bluehillscycling.com/?p=608
-date: '2014-08-20 12:53:16 -0400'
-date_gmt: '2014-08-20 12:53:16 -0400'
-categories:
-- Uncategorized
-tags: []
-comments: []
+
 ---
 		
 <p>Congratulations to Nate Sievers for a second place finish and to Johnathan Doller for a fourth place finish at the Bob Beal Memorial Criterium this past weekend.

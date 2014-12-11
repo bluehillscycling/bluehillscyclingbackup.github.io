@@ -3,21 +3,7 @@ layout: post
 status: publish
 published: true
 title: Hampshire 100 Mountain Bike Race
-author:
-  display_name: Pedro
-  login: Pedro
-  email: pedro@bluehillscycling.com
-  url: ''
-author_login: Pedro
-author_email: pedro@bluehillscycling.com
-wordpress_id: 600
-wordpress_url: http://www.bluehillscycling.com/?p=600
-date: '2014-08-18 18:46:26 -0400'
-date_gmt: '2014-08-18 18:46:26 -0400'
-categories:
-- Uncategorized
-tags: []
-comments: []
+a
 ---
 
 

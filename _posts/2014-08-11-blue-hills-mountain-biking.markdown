@@ -3,21 +3,7 @@ layout: post
 status: publish
 published: true
 title: Blue Hills Mountain Biking
-author:
-  display_name: Pedro
-  login: Pedro
-  email: pedro@bluehillscycling.com
-  url: ''
-author_login: Pedro
-author_email: pedro@bluehillscycling.com
-wordpress_id: 566
-wordpress_url: http://www.bluehillscycling.com/?p=566
-date: '2014-08-11 18:48:35 -0400'
-date_gmt: '2014-08-11 18:48:35 -0400'
-categories:
-- Uncategorized
-tags: []
-comments: []
+
 ---
 <<h5>Gearing up for some long days in the Saddle</h5>
 

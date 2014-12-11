@@ -3,21 +3,7 @@ layout: post
 status: publish
 published: true
 title: Landmine Mountain Bike Classic
-author:
-  display_name: Pedro
-  login: Pedro
-  email: pedro@bluehillscycling.com
-  url: ''
-author_login: Pedro
-author_email: pedro@bluehillscycling.com
-wordpress_id: 633
-wordpress_url: http://www.bluehillscycling.com/?p=633
-date: '2014-09-08 21:58:22 -0400'
-date_gmt: '2014-09-08 21:58:22 -0400'
-categories:
-- Uncategorized
-tags: []
-comments: []
+a
 ---
 
 <table class="datatable1" width="100%">
