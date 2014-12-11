@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Hampshire 100 Mountain Bike Race
-a
 ---
 
 

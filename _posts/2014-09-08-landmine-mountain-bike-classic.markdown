@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Landmine Mountain Bike Classic
-a
 ---
 
 <table class="datatable1" width="100%">
