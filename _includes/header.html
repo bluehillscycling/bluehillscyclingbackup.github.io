@@ -17,7 +17,7 @@
             <ul class="nav"  style ="padding-top-20px;">
               <li class="active" style="font-family: Tahoma, Verdana, Segoe, sans-serif;"><a id ="home" href="/">Home</a></li>
                 <li><a href="/about">About</a></li>
-                <li><a href="/join.html">Join</a></li>
+                <li><a href="/join">Join</a></li>
                 <li><a href="/club_rides" id ="clubrides">Club Rides</a></li>
                 <li><a href="/race_team" id="race_team">Race Team</a></li>
                 <li><a href="http://www.bluehillscycling.com/forum/">Forum</a></li>
@@ -35,16 +35,54 @@
       </div>
       </div>
 
-      {% if page.home-page =="yes" %}
+      {% if page.home-page =="home" %}
 
       <div id="container" style ="padding-top:15px">     
         <div id = "mainslider" class = "row" style ="display:table; margin:0 auto;">
             <div class = "span10">
                 <ul class="rslides" id = "slider1">
-                    <li><img src='{{ site.baseurl }}/images/bluehillsmtb.jpg' alt="Blue Hills MTBS"/></li>
                     <li><img src='{{ site.baseurl }}/images/harpoonb2b.jpg' alt="Blue Hills MTBS"/></li>
+                    <li><img src='{{ site.baseurl }}/images/bluehillsmtb.jpg' alt="Blue Hills MTBS"/></li>
+                    <li><img src='{{ site.baseurl }}/images/marathon.jpg' alt="Marathon Monday"/></li>
                 </ul>
             </div>
         </div>
     </div>
      {% endif %}
+     
+     
+    {% if page.home-page =="join" %}
+
+      <div style ="padding-top:15px">     
+        <div class = "row" style ="display:table; margin:0 auto;">
+            <div class = "span10">
+                <img src="/images/BHCC4s.jpg" alt="Race Team" />
+            </div>
+        </div>
+    </div>
+     {% endif %}
+     
+     
+       {% if page.home-page =="about" %}
+
+      <div style ="padding-top:15px">     
+        <div class = "row" style ="display:table; margin:0 auto;">
+            <div class = "span10">
+                <img src="/images/marathon.jpg"/>
+            </div>
+        </div>
+    </div>
+     {% endif %}
+     
+            {% if page.home-page =="race" %}
+
+      <div style ="padding-top:15px">     
+        <div class = "row" style ="display:table; margin:0 auto;">
+            <div class = "span10">
+                <img src="/images/raceteam.jpg"/>
+            </div>
+        </div>
+    </div>
+     {% endif %}
+     
+     

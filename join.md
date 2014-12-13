@@ -1,6 +1,0 @@
----
-layout: page
-title: "Join BHCC"
-description: ""
----
-{% include JB/setup %}

@@ -1,3 +1,10 @@
+---
+layout: post
+status: publish
+published: true
+title: Midnight Ride of Cyclocross
+---
+
 <p>Mike Morse working on another Win!</p>
 <p><a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/09/mm.png"><img class="alignnone size-full wp-image-677" alt="mm" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/09/mm.png" width="500" height="244" /></a></p>
 <h5>Midnight Ride of Cyclocross(Sep 24 2014)</h5>
