@@ -19,19 +19,29 @@ categories:
 tags: []
 comments: []
 ---
-<p><strong>Do you think you have what it takes to be King of the Blue Hills?<&#47;strong></p>
-<table>
-<tr>
-<td style="width:155px">
-<a href="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;02&#47;king.jpg"><img src="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;02&#47;king-150x150.jpg" alt="king" width="150" height="150" class="alignnone size-thumbnail wp-image-182" &#47;><&#47;a><br />
-<&#47;td>
-<td>
-<p style="padding-left:3px">This year we will be tracking club member&rsquo;s efforts on your favorite road and dirt segments in and around the Blue Hills in order to find out who is truly the King and&#47;or Queen of the Blue Hills. We will be tracking the dirt climbs in a separate competition<&#47;p> </p>
-<p>For this competition we will only be looking at efforts completed in 2014, more specifically March through October. <&#47;p><br />
- <&#47;td><&#47;tr><br />
-<&#47;table></p>
+<strong>Do you think you have what it takes to be King of the Blue Hills?</strong>
+
+
+
+<table><tr><td style="width:155px">
+
+<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/02/king.jpg"><img src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/02/king-150x150.jpg" alt="king" width="150" height="150" class="alignnone size-thumbnail wp-image-182" /></a>
+
+</td><td><p style="padding-left:3px">This year we will be tracking club member’s efforts on your favorite road and dirt segments in and around the Blue Hills in order to find out who is truly the King and/or Queen of the Blue Hills. We will be tracking the dirt climbs in a separate competition</p> 
+
+<p>For this competition we will only be looking at efforts completed in 2014, more specifically March through October. </p>
+
+ </td></tr>
+
+</table>
+
+
+
+
+
 <p style="padding-top:5px">
-Each segment will be weighted based on difficulty and points will be awarded to each of the top ten times for each segment.  The person with the most points wins. We are still evaluating the segments, expect this to be locked in by March 1st.  For complete contest rules and eligibility click on the King of the Blue Hills tab above. The King of the Blue Hills competition is only open to current members of the blue hills cycling club.  To Join the fun, please Join the Blue Hills Cycling Club by clicking on the link below. New members are always welcome!<&#47;p></p>
-<div class = "row"style ="display: table; margin:0 auto; padding-bottom:20px" >
-        <a href="https:&#47;&#47;www.bikereg.com&#47;Net&#47;21860" target="_blank"><img  src="BHCC-3&#47;img&#47;bikereg.gif" alt="Join"&#47;><&#47;a><br />
-        <&#47;div></p>
+
+Each segment will be weighted based on difficulty and points will be awarded to each of the top ten times for each segment.  The person with the most points wins. We are still evaluating the segments, expect this to be locked in by March 1st.  For complete contest rules and eligibility click on the King of the Blue Hills tab above. The King of the Blue Hills competition is only open to current members of the blue hills cycling club.  To Join the fun, please Join the Blue Hills Cycling Club by clicking on the link below. New members are always welcome!</p>
+<a href="https://www.bikereg.com/Net/21860" target="_blank"><img  src="/images/bikereg.gif" alt="Join"/></a>
+
+       

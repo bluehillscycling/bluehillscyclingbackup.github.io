@@ -20,103 +20,176 @@ categories:
 tags: []
 comments: []
 ---
-<p>The Blue Hills squad is rolling into Summer strong! Ari Shocket started it off with a Win at the Rhode Island Masters' Cycling Classic in the 40+ Category.<br />
-<a href="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;06&#47;Ari-Cash.jpg"><img class="alignnone size-full wp-image-493" alt="Ari Cash" src="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;06&#47;Ari-Cash.jpg" width="500" height="316" &#47;><&#47;a></p>
-<p>Philip Golden Followed it up with a Second Place CAT2 Finish at the Hodges Village Damn Mountain Bike Race in Oxford, MA. The Blue Hills Dirt Squad Represented in all 3 Categories this week.</p>
-<p><a href="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;06&#47;Phil-Podium.jpg"><img class="alignnone size-full wp-image-494" alt="Phil Podium" src="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;06&#47;Phil-Podium.jpg" width="499" height="279" &#47;><&#47;a></p>
+<p>The Blue Hills squad is rolling into Summer strong! Ari Shocket started it off with a Win at the Rhode Island Masters' Cycling Classic in the 40+ Category.
+
+<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/06/Ari-Cash.jpg"><img class="alignnone size-full wp-image-493" alt="Ari Cash" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/06/Ari-Cash.jpg" width="500" height="316" /></a>
+
+
+
+Philip Golden Followed it up with a Second Place CAT2 Finish at the Hodges Village Damn Mountain Bike Race in Oxford, MA. The Blue Hills Dirt Squad Represented in all 3 Categories this week.
+
+
+
+<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/06/Phil-Podium.jpg"><img class="alignnone size-full wp-image-494" alt="Phil Podium" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/06/Phil-Podium.jpg" width="499" height="279" /></a></p>
+
 <table class="datatable1" width="100%">
+
 <tbody>
+
 <tr>
+
 <td class="headerrow3" colspan="5">
-<h5>Rhode Island Masters' Cycling Classic (Jun 21 2014)<&#47;h5><br />
-<&#47;td><br />
-<&#47;tr></p>
+
+<h5>Rhode Island Masters' Cycling Classic (Jun 21 2014)</h5>
+
+</td>
+
+</tr>
+
 <tr>
-<td>Ari<&#47;td></p>
-<td>Shocket<&#47;td></p>
-<td>CAT 1-4 40-44 40k<&#47;td></p>
-<td>1&#47;5<&#47;td><br />
-<&#47;tr></p>
+
+<td>Ari</td>
+
+<td>Shocket</td>
+
+<td>CAT 1-4 40-44 40k</td>
+
+<td>1/5</td>
+
+</tr>
+
 <tr>
-<td>Ari<&#47;td></p>
-<td>Shocket<&#47;td></p>
-<td>CAT 1-4 40-44 20K<&#47;td></p>
-<td>3&#47;6<&#47;td><br />
-<&#47;tr></p>
+
+<td>Ari</td>
+
+<td>Shocket</td>
+
+<td>CAT 1-4 40-44 20K</td>
+
+<td>3/6</td>
+
+</tr>
+
 <tr>
-<td>William<&#47;td></p>
-<td>Paredes<&#47;td></p>
-<td>CAT 5 45-49 20K<&#47;td></p>
-<td>4&#47;4<&#47;td><br />
-<&#47;tr></p>
+
+<td>William</td>
+
+<td>Paredes</td>
+
+<td>CAT 5 45-49 20K</td>
+
+<td>4/4</td>
+
+</tr>
+
 <tr>
-<td>Bob<&#47;td></p>
-<td>Sherner<&#47;td></p>
-<td>CAT 1-5 65-69<&#47;td></p>
-<td>8&#47;9<&#47;td><br />
-<&#47;tr><br />
-<&#47;tbody><br />
-<&#47;table><br />
-&nbsp;</p>
+
+<td>Bob</td>
+
+<td>Sherner</td>
+
+<td>CAT 1-5 65-69</td>
+
+<td>8/9</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+&nbsp;
+
 <table>
+
 <tbody>
+
 <tr>
+
 <td class="headerrow3" colspan="5">
-<h5>The Keith Berger Memorial Criterium (Jun 22 2014)<&#47;h5><br />
-<&#47;td><br />
-<&#47;tr></p>
+
+<h5>The Keith Berger Memorial Criterium (Jun 22 2014)</h5>
+
+</td>
+
+</tr>
+
 <tr>
-<td>Austin<&#47;td></p>
-<td>Guyette<&#47;td></p>
-<td>CAT 3&#47;4<&#47;td></p>
-<td>60&#47;66<&#47;td><br />
-<&#47;tr></p>
+
+<td>Austin</td>
+
+<td>Guyette</td>
+
+<td>CAT 3/4</td>
+
+<td>60/66</td>
+
+</tr>
+
 <tr>
-<td>Austin&#47;<&#47;td></p>
-<td>Guyette<&#47;td></p>
-<td>CAT 4&#47;5<&#47;td></p>
-<td>7&#47;62<&#47;td><br />
-<&#47;tr><br />
-<&#47;tbody><br />
-<&#47;table><br />
-&nbsp;</p>
+
+<td>Austin/</td>
+
+<td>Guyette</td>
+
+<td>CAT 4/5</td>
+
+<td>7/62</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+&nbsp;
+
 <table>
+
 <tbody>
+
 <tr>
+
 <td class="headerrow3" colspan="5">
-<h5>Hodges Village Damn Mountain Bike Race (June 22, 2014)<&#47;h5><br />
-<&#47;td><br />
-<&#47;tr></p>
+
+<h5>Hodges Village Damn Mountain Bike Race (June 22, 2014)</h5>
+
+</td>
+
+</tr>
+
 <tr>
-<td>Pete<&#47;td></p>
-<td>Werner<&#47;td></p>
-<td>CAT 1 30-39<&#47;td></p>
-<td>7&#47;10<&#47;td><br />
-<&#47;tr></p>
+
+<td>Pete</td>
+
+<td>Werner</td>
+
+<td>CAT 1 30-39</td>
+
+<td>7/10</td>
+
+</tr>
+
 <tr>
-<td>Philip<&#47;td></p>
-<td>Golden<&#47;td></p>
-<td>CAT 2 40-49<&#47;td></p>
-<td>2&#47;15<&#47;td><br />
-<&#47;tr></p>
+
+<td>Philip</td>
+
+<td>Golden</td>
+
+<td>CAT 2 40-49</td>
+
+<td>2/15</td>
+
+</tr>
+
 <tr>
-<td>Jeff<&#47;td></p>
-<td>Muldoon<&#47;td></p>
-<td>CAT 2 30-39<&#47;td></p>
-<td>9&#47;10<&#47;td><br />
-<&#47;tr></p>
-<tr>
-<td>Ted<&#47;td></p>
-<td>Myles<&#47;td></p>
-<td>CAT 3 40-49<&#47;td></p>
-<td>8&#47;15<&#47;td><br />
-<&#47;tr></p>
-<tr>
-<td>Richard<&#47;td></p>
-<td>Walsh<&#47;td></p>
-<td>CAT 3 50+<&#47;td></p>
-<td>5&#47;5<&#47;td><br />
-<&#47;tr><br />
-<&#47;tbody><br />
-<&#47;table><br />
-&nbsp;</p>
+
+<td>Jeff</td>
+
+<td>Muldoon</td>
+
+<td>CAT 2 30-39</td>
+
+<td>9/10</td>
+
+</tr>

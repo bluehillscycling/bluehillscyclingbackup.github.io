@@ -19,93 +19,186 @@ categories:
 tags: []
 comments: []
 ---
-<p>In case you missed it this week, <a title="Dirt Wire" href="http:&#47;&#47;dirtwire.tv&#47;">Dirt Wire TV<&#47;a> came out to shoot the first race in our Short Track Series.</p>
-<p>[iframe id="viddler-f2a567e6" src="&#47;&#47;www.viddler.com&#47;embed&#47;f2a567e6&#47;?f=1&amp;offset=0&amp;autoplay=0&amp;player=full&amp;secret=84617477&amp;disablebranding=0&amp;view_secret=84617477" width="500" height="320" frameborder="0" mozallowfullscreen="true" webkitallowfullscreen="true" iframe]</p>
-<p>&nbsp;</p>
+<p>In case you missed it this week, <a title="Dirt Wire" href="http://dirtwire.tv/">Dirt Wire TV</a> came out to shoot the first race in our Short Track Series.</p>
+
+
+
+[iframe id="viddler-f2a567e6" src="//www.viddler.com/embed/f2a567e6/?f=1&amp;offset=0&amp;autoplay=0&amp;player=full&amp;secret=84617477&amp;disablebranding=0&amp;view_secret=84617477" width="500" height="320" frameborder="0" mozallowfullscreen="true" webkitallowfullscreen="true" iframe]
+
+
+
+&nbsp;
+
 <table>
+
 <tbody>
+
 <tr>
-<th><&#47;th></p>
+
+<th></th>
+
 <th align="left">
-<h5>A RACE:<&#47;h5><br />
-<&#47;th></p>
+
+<h5>A RACE:</h5>
+
+</th>
+
 <th>
-<h5>Points<&#47;h5><br />
-<&#47;th></p>
-<th><&#47;th></p>
+
+<h5>Points</h5>
+
+</th>
+
+<th></th>
+
 <th align="left">
-<h5>B RACE:<&#47;h5><br />
-<&#47;th></p>
+
+<h5>B RACE:</h5>
+
+</th>
+
 <th>
-<h5>Points<&#47;h5><br />
-<&#47;th><br />
-<&#47;tr><br />
-<&#47;tbody></p>
+
+<h5>Points</h5>
+
+</th>
+
+</tr>
+
+</tbody>
+
 <tbody>
+
 <tr>
-<td style="padding-right: 8px">1<br />
-2<br />
-3<br />
-4<br />
-5<br />
-6<br />
-7<br />
-8<br />
-9<br />
-10<&#47;td></p>
-<td style="padding-right: 8px">Charles Schubert<br />
-Jorma Mueller<br />
-Matt Sousa<br />
-Kevin Brant<br />
-Rich Pirro<br />
-Will Crissman<br />
-Tyler Eusden<br />
-Sean Willson<br />
-Jake Berry<br />
-Pete Werner<&#47;td></p>
-<td>60<br />
-55<br />
-50<br />
-45<br />
-40<br />
-35<br />
-30<br />
-25<br />
-20<br />
-15<&#47;td></p>
-<td style="padding-right: 8px">1<br />
-2<br />
-3<br />
-4<br />
-5<br />
-6<br />
-7<br />
-8<br />
-9<br />
-10<&#47;td></p>
-<td style="padding-right: 8px">Curtis Chase<br />
-Whittle Ian<br />
-Peter Kuhn<br />
-Ted Myles<br />
-Mark Budreski<br />
-Tucker Walsh<br />
-BikeReg Guy (who knows who this is?)<br />
-Jessica Hughston<br />
-Marc Cedrone<br />
-John Fice<&#47;td></p>
-<td>60<br />
-55<br />
-50<br />
-45<br />
-40<br />
-35<br />
-30<br />
-25<br />
-20<br />
-15<&#47;td><br />
-<&#47;tr><br />
-<&#47;tbody><br />
-<&#47;table><br />
-&nbsp;</p>
-<p>Special thanks to our sponsors who are providing prizes for the over all points leaders. Landry's Bicycles, Bar Fly, Osmo Nutrition, Harpoon Brewery, ESI Grips, Flat Black Coffee, switchback Magazine, Cold Fusion Gelato.</p>
-<p>See you in June for STXC #2 and don't forget about The Barn Burner on July 13th.</p>
+
+<td style="padding-right: 8px">1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10</td>
+
+<td style="padding-right: 8px">Charles Schubert
+
+Jorma Mueller
+
+Matt Sousa
+
+Kevin Brant
+
+Rich Pirro
+
+Will Crissman
+
+Tyler Eusden
+
+Sean Willson
+
+Jake Berry
+
+Pete Werner</td>
+
+<td>60
+
+55
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15</td>
+
+<td style="padding-right: 8px">1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10</td>
+
+<td style="padding-right: 8px">Curtis Chase
+
+Whittle Ian
+
+Peter Kuhn
+
+Ted Myles
+
+Mark Budreski
+
+Tucker Walsh
+
+BikeReg Guy (who knows who this is?)
+
+Jessica Hughston
+
+Marc Cedrone
+
+John Fice</td>
+
+<td>60
+
+55
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+&nbsp;
+
+
+
+Special thanks to our sponsors who are providing prizes for the over all points leaders. Landry's Bicycles, Bar Fly, Osmo Nutrition, Harpoon Brewery, ESI Grips, Flat Black Coffee, switchback Magazine, Cold Fusion Gelato.

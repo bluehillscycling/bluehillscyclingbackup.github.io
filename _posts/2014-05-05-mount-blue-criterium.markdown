@@ -19,162 +19,336 @@ categories:
 tags: []
 comments: []
 ---
-<p>Despite having only a few weeks to pull together a venue change due to the unsafe road conditions, Pete Macleod was able to string together a really fun event with an awesome Boston's Baddest Burgers food truck, some super Flat Black coffee and lots of hard, fun racing.</p>
-<p><a href="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;mikecrit.jpg"><img class="alignnone size-full wp-image-341" alt="mikecrit" src="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;mikecrit.jpg" width="512" height="289" &#47;><&#47;a></p>
-<p>&nbsp;</p>
-<p>Thanks to all of the volunteers working registration, parking and course marshalling. Without you, we can't pull these events off.</p>
-<p><a href="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;volunteers1.jpg"><img class="alignnone size-full wp-image-345" alt="volunteers" src="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;volunteers1.jpg" width="545" height="261" &#47;><&#47;a></p>
-<p>&nbsp;</p>
-<h5>Ari Shocket (Masters 40+) and Mike O&rsquo;Donnell (Cat 4) on the Podium!<&#47;h5><br />
-&nbsp;</p>
-<p><a href="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;ariandmike.jpg"><img class="alignnone size-full wp-image-349" alt="ariandmike" src="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;ariandmike.jpg" width="545" height="181" &#47;><&#47;a></p>
-<p><img class="alignnone size-full wp-image-351" alt="cat4 team" src="http:&#47;&#47;www.bluehillscycling.com&#47;BHCC-3&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;cat4-team.jpg" width="545" height="282" &#47;></p>
+Despite having only a few weeks to pull together a venue change due to the unsafe road conditions, Pete Macleod was able to string together a really fun event with an awesome Boston's Baddest Burgers food truck, some super Flat Black coffee and lots of hard, fun racing.
+
+
+
+<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/mikecrit.jpg"><img class="alignnone size-full wp-image-341" alt="mikecrit" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/mikecrit.jpg" width="512" height="289" /></a>
+
+
+
+&nbsp;
+
+
+
+Thanks to all of the volunteers working registration, parking and course marshalling. Without you, we can't pull these events off.
+
+
+
+<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/volunteers1.jpg"><img class="alignnone size-full wp-image-345" alt="volunteers" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/volunteers1.jpg" width="545" height="261" /></a>
+
+
+
+&nbsp;
+
+<h5>Ari Shocket (Masters 40+) and Mike O’Donnell (Cat 4) on the Podium!</h5>
+
+&nbsp;
+
+
+
+<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/ariandmike.jpg"><img class="alignnone size-full wp-image-349" alt="ariandmike" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/ariandmike.jpg" width="545" height="181" /></a>
+
+
+
+<img class="alignnone size-full wp-image-351" alt="cat4 team" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/cat4-team.jpg" width="545" height="282" />
+
 <table class="datatable1" width="100%">
+
 <tbody>
+
 <tr>
+
 <td class="headerrow3" colspan="5">
-<h5>Mount Blue Criterium (May 4 2014)<&#47;h5><br />
-<&#47;td><br />
-<&#47;tr></p>
+
+<h5>Mount Blue Criterium (May 4 2014)</h5>
+
+</td>
+
+</tr>
+
 <tr>
-<td>Chad<&#47;td></p>
-<td>GUEVREMONT<&#47;td></p>
-<td>Cat 5A<&#47;td></p>
-<td>7&#47;27<&#47;td><br />
-<&#47;tr></p>
+
+<td>Chad</td>
+
+<td>GUEVREMONT</td>
+
+<td>Cat 5A</td>
+
+<td>7/27</td>
+
+</tr>
+
 <tr>
-<td>Peter<&#47;td></p>
-<td>WERNER<&#47;td></p>
-<td>Cat 5A<&#47;td></p>
-<td>10&#47;27<&#47;td><br />
-<&#47;tr></p>
+
+<td>Peter</td>
+
+<td>WERNER</td>
+
+<td>Cat 5A</td>
+
+<td>10/27</td>
+
+</tr>
+
 <tr>
-<td>Scott<&#47;td></p>
-<td>HARRINGTON<&#47;td></p>
-<td>Cat 5A<&#47;td></p>
-<td>12&#47;27<&#47;td><br />
-<&#47;tr></p>
+
+<td>Scott</td>
+
+<td>HARRINGTON</td>
+
+<td>Cat 5A</td>
+
+<td>12/27</td>
+
+</tr>
+
 <tr>
-<td>Tony<&#47;td></p>
-<td>ZANON<&#47;td></p>
-<td>Cat 5A<&#47;td></p>
-<td>DNF<&#47;td><br />
-<&#47;tr></p>
+
+<td>Tony</td>
+
+<td>ZANON</td>
+
+<td>Cat 5A</td>
+
+<td>DNF</td>
+
+</tr>
+
 <tr>
-<td><&#47;td></p>
-<td><&#47;td></p>
-<td><&#47;td></p>
-<td><&#47;td><br />
-<&#47;tr></p>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+</tr>
+
 <tr>
-<td>Peter<&#47;td></p>
-<td>WERNER<&#47;td></p>
-<td>Cat 5B<&#47;td></p>
-<td>4&#47;28<&#47;td><br />
-<&#47;tr></p>
+
+<td>Peter</td>
+
+<td>WERNER</td>
+
+<td>Cat 5B</td>
+
+<td>4/28</td>
+
+</tr>
+
 <tr>
-<td>Michael<&#47;td></p>
-<td>O'DONNELL<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>3&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Michael</td>
+
+<td>O'DONNELL</td>
+
+<td>Cat 4A</td>
+
+<td>3/41</td>
+
+</tr>
+
 <tr>
-<td>Jonathan<&#47;td></p>
-<td>DOLLER<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>8&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Jonathan</td>
+
+<td>DOLLER</td>
+
+<td>Cat 4A</td>
+
+<td>8/41</td>
+
+</tr>
+
 <tr>
-<td>Brian<&#47;td></p>
-<td>ALBERT<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>9&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Brian</td>
+
+<td>ALBERT</td>
+
+<td>Cat 4A</td>
+
+<td>9/41</td>
+
+</tr>
+
 <tr>
-<td>Algis<&#47;td></p>
-<td>NORKEVICIUS<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>16&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Algis</td>
+
+<td>NORKEVICIUS</td>
+
+<td>Cat 4A</td>
+
+<td>16/41</td>
+
+</tr>
+
 <tr>
-<td>Nate<&#47;td></p>
-<td>SIEVERS<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>19&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Nate</td>
+
+<td>SIEVERS</td>
+
+<td>Cat 4A</td>
+
+<td>19/41</td>
+
+</tr>
+
 <tr>
-<td>Andrew<&#47;td></p>
-<td>ROTHSTEIN<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>20&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Andrew</td>
+
+<td>ROTHSTEIN</td>
+
+<td>Cat 4A</td>
+
+<td>20/41</td>
+
+</tr>
+
 <tr>
-<td>Michael<&#47;td></p>
-<td>ROMAN<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>24&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Michael</td>
+
+<td>ROMAN</td>
+
+<td>Cat 4A</td>
+
+<td>24/41</td>
+
+</tr>
+
 <tr>
-<td>Adam<&#47;td></p>
-<td>SHUTES<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>33&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Adam</td>
+
+<td>SHUTES</td>
+
+<td>Cat 4A</td>
+
+<td>33/41</td>
+
+</tr>
+
 <tr>
-<td>Jeffrey<&#47;td></p>
-<td>LYDON<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>37&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Jeffrey</td>
+
+<td>LYDON</td>
+
+<td>Cat 4A</td>
+
+<td>37/41</td>
+
+</tr>
+
 <tr>
-<td>Kioko<&#47;td></p>
-<td>MWOSA<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>39&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Kioko</td>
+
+<td>MWOSA</td>
+
+<td>Cat 4A</td>
+
+<td>39/41</td>
+
+</tr>
+
 <tr>
-<td>Victor<&#47;td></p>
-<td>MILLIGAN<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>40&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Victor</td>
+
+<td>MILLIGAN</td>
+
+<td>Cat 4A</td>
+
+<td>40/41</td>
+
+</tr>
+
 <tr>
-<td>Greg<&#47;td></p>
-<td>NORTON<&#47;td></p>
-<td>Cat 4A<&#47;td></p>
-<td>41&#47;41<&#47;td><br />
-<&#47;tr></p>
+
+<td>Greg</td>
+
+<td>NORTON</td>
+
+<td>Cat 4A</td>
+
+<td>41/41</td>
+
+</tr>
+
 <tr>
-<td><&#47;td></p>
-<td><&#47;td></p>
-<td><&#47;td></p>
-<td><&#47;td><br />
-<&#47;tr></p>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+</tr>
+
 <tr>
-<td>ANDREW<&#47;td></p>
-<td>ROTHSTEIN<&#47;td></p>
-<td>Cat 4B<&#47;td></p>
-<td>15&#47;37<&#47;td><br />
-<&#47;tr></p>
+
+<td>ANDREW</td>
+
+<td>ROTHSTEIN</td>
+
+<td>Cat 4B</td>
+
+<td>15/37</td>
+
+</tr>
+
 <tr>
-<td><&#47;td></p>
-<td><&#47;td></p>
-<td><&#47;td></p>
-<td><&#47;td><br />
-<&#47;tr></p>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+</tr>
+
 <tr>
-<td>Ari<&#47;td></p>
-<td>SHOCKET<&#47;td></p>
-<td>40+<&#47;td></p>
-<td>3&#47;38<&#47;td><br />
-<&#47;tr></p>
+
+<td>Ari</td>
+
+<td>SHOCKET</td>
+
+<td>40+</td>
+
+<td>3/38</td>
+
+</tr>
+
 <tr>
-<td>Bruce<&#47;td></p>
-<td>PIERCE<&#47;td></p>
-<td>40+<&#47;td></p>
-<td>33&#47;38<&#47;td><br />
-<&#47;tr><br />
-<&#47;tbody><br />
-<&#47;table><br />
-&nbsp;</p>
-<p>&nbsp;</p>
+
+<td>Bruce</td>
+
+<td>PIERCE</td>
+
+<td>40+</td>
+
+<td>33/38</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+&nbsp;
+
+
+
+&nbsp;
