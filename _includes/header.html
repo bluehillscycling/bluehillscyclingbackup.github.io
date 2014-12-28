@@ -35,7 +35,7 @@
       </div>
       </div>
 
-      {% if page.home-page =="home" %}
+      {% if page.page-banner =="home" %}
 
       <div id="container" style ="padding-top:15px">     
         <div id = "mainslider" class = "row" style ="display:table; margin:0 auto;">
@@ -48,41 +48,27 @@
             </div>
         </div>
     </div>
-     {% endif %}
-     
-     
-    {% if page.home-page =="join" %}
-
+     {% else %}
       <div style ="padding-top:15px">     
         <div class = "row" style ="display:table; margin:0 auto;">
             <div class = "span10">
-                <img src="/images/BHCC4s.jpg" alt="Race Team" />
+                <img src='/images/{{ page.page-banner }}'alt="Race Team" />
             </div>
         </div>
     </div>
      {% endif %}
-     
-     
-       {% if page.home-page =="about" %}
 
-      <div style ="padding-top:15px">     
-        <div class = "row" style ="display:table; margin:0 auto;">
-            <div class = "span10">
-                <img src="/images/marathon.jpg"/>
-            </div>
-        </div>
-    </div>
-     {% endif %}
-     
-            {% if page.home-page =="race" %}
-
-      <div style ="padding-top:15px">     
-        <div class = "row" style ="display:table; margin:0 auto;">
-            <div class = "span10">
-                <img src="/images/raceteam.jpg"/>
-            </div>
-        </div>
-    </div>
-     {% endif %}
-     
+{% if page.page-banner =="king.png" %}
+<div style ="padding-top:15px">     
+    <div class = "row" style ="display:table; margin:0 auto;">
+        <div class = "span10">
+         <div class="alert alert-success">
+           <button type="button" class="close" data-dismiss="alert">&times;</button>
+           <h2>Get Ready for Next Year!</h2>
+           <p style="padding-top:10px;">Thank you for participating in the 2014 King of the Blue Hills competition!  The competition will return in 2015, stay tuned for details!</p>
+         </div>
+       </div>
+     </div>
+  {% endif %}
+</div>
      

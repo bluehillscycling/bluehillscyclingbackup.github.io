@@ -1,0 +1,16 @@
+$ ruby -rubygems -e 'require "jekyll-import";
+    JekyllImport::Importers::WordPress.run({
+      "dbname"   => "bluehil1_news",
+      "user"     => "bluehil1_wordpre",
+      "password" => " l,q5W8Pd)1[G",
+      "host"     => "http://www.bluehillscycling.com",
+      "socket"   => "",
+      "table_prefix"   => "campagnolo_",
+      "clean_entities" => true,
+      "comments"       => true,
+      "categories"     => true,
+      "tags"           => true,
+      "more_excerpt"   => true,
+      "more_anchor"    => true,
+      "status"         => ["publish"]
+    })'
