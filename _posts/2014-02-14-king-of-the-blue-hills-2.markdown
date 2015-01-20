@@ -25,7 +25,7 @@ comments: []
 
 <table><tr><td style="width:155px">
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/02/king.jpg"><img src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/02/king-150x150.jpg" alt="king" width="150" height="150" class="alignnone size-thumbnail wp-image-182" /></a>
+<a href="/images/uploads/2014/02/king.jpg"><img src="/images/uploads/2014/02/king-150x150.jpg" alt="king" width="150" height="150" class="alignnone size-thumbnail wp-image-182" /></a>
 
 </td><td><p style="padding-left:3px">This year we will be tracking club member’s efforts on your favorite road and dirt segments in and around the Blue Hills in order to find out who is truly the King and/or Queen of the Blue Hills. We will be tracking the dirt climbs in a separate competition</p> 
 

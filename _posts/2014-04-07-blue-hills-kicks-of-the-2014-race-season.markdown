@@ -163,7 +163,7 @@ comments: []
 
 					</tr><tr>
 
-                    <a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/04/batt.jpg"><img src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/04/batt.jpg" alt="batt" width="525" height="324" class="alignnone size-full wp-image-264" /></a></tr>
+                    <a href="/images/uploads/2014/04/batt.jpg"><img src="/images/uploads/2014/04/batt.jpg" alt="batt" width="525" height="324" class="alignnone size-full wp-image-264" /></a></tr>
 
 									<tr><td colspan="5" class="headerrow3"><h5>Tour of the Battenkill (Apr 5 2014)</td></h5></tr>
 

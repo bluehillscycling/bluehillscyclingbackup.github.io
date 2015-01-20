@@ -23,7 +23,7 @@ Despite having only a few weeks to pull together a venue change due to the unsaf
 
 
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/mikecrit.jpg"><img class="alignnone size-full wp-image-341" alt="mikecrit" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/mikecrit.jpg" width="512" height="289" /></a>
+<a href="/images/uploads/2014/05/mikecrit.jpg"><img class="alignnone size-full wp-image-341" alt="mikecrit" src="/images/uploads/2014/05/mikecrit.jpg" width="512" height="289" /></a>
 
 
 
@@ -35,7 +35,7 @@ Thanks to all of the volunteers working registration, parking and course marshal
 
 
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/volunteers1.jpg"><img class="alignnone size-full wp-image-345" alt="volunteers" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/volunteers1.jpg" width="545" height="261" /></a>
+<a href="/images/uploads/2014/05/volunteers1.jpg"><img class="alignnone size-full wp-image-345" alt="volunteers" src="/images/uploads/2014/05/volunteers1.jpg" width="545" height="261" /></a>
 
 
 
@@ -47,11 +47,11 @@ Thanks to all of the volunteers working registration, parking and course marshal
 
 
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/ariandmike.jpg"><img class="alignnone size-full wp-image-349" alt="ariandmike" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/ariandmike.jpg" width="545" height="181" /></a>
+<a href="/images/uploads/2014/05/ariandmike.jpg"><img class="alignnone size-full wp-image-349" alt="ariandmike" src="/images/uploads/2014/05/ariandmike.jpg" width="545" height="181" /></a>
 
 
 
-<img class="alignnone size-full wp-image-351" alt="cat4 team" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/cat4-team.jpg" width="545" height="282" />
+<img class="alignnone size-full wp-image-351" alt="cat4 team" src="/images/uploads/2014/05/cat4-team.jpg" width="545" height="282" />
 
 <table class="datatable1" width="100%">
 

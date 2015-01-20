@@ -19,7 +19,7 @@ Team Rider Scott Taylor Dreams about the intervals he could have been doing on h
 
 
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/08/paintrain.jpg"><img class="alignnone size-full wp-image-578" alt="paintrain" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/08/paintrain.jpg" width="500" height="281" /></a>
+<a href="/images/uploads/2014/08/paintrain.jpg"><img class="alignnone size-full wp-image-578" alt="paintrain" src="/images/uploads/2014/08/paintrain.jpg" width="500" height="281" /></a>
 
 
 

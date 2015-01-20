@@ -5,7 +5,7 @@ published: true
 title: Holy Week of Cyclocross
 
 ---
-<p><a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/10/MMorse.jpg"><img class="alignnone size-full wp-image-684" alt="MMorse" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/10/MMorse.jpg" width="500" height="333" /></a></p>
+<p><a href="/images/uploads/2014/10/MMorse.jpg"><img class="alignnone size-full wp-image-684" alt="MMorse" src="/images/uploads/2014/10/MMorse.jpg" width="500" height="333" /></a></p>
 <table width="100%">
 <tbody>
 <tr>
@@ -293,4 +293,4 @@ title: Holy Week of Cyclocross
 </tr>
 </tbody>
 </table>
-<p><a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/10/Untitled-20.png"><img src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/10/Untitled-20.png" alt="Untitled-20" width="500" height="749" class="alignnone size-full wp-image-685" /></a></p>
+<p><a href="/images/uploads/2014/10/Untitled-20.png"><img src="/images/uploads/2014/10/Untitled-20.png" alt="Untitled-20" width="500" height="749" class="alignnone size-full wp-image-685" /></a></p>

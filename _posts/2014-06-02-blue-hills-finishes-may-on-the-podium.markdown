@@ -25,7 +25,7 @@ comments: []
 
 Kevin Brandt took 1st place in Sport 40-49 at the Gnar Weasels in Foxborough, MA!</p>
 
-<a style="padding-top: 10px" href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/06/brandt.jpg"><img class="alignnone size-full wp-image-447" alt="brandt" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/06/brandt.jpg" width="500" height="362" /></a>
+<a style="padding-top: 10px" href="/images/uploads/2014/06/brandt.jpg"><img class="alignnone size-full wp-image-447" alt="brandt" src="/images/uploads/2014/06/brandt.jpg" width="500" height="362" /></a>
 
 
 

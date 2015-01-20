@@ -12,7 +12,7 @@ title: QuadCross
 
 
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/09/quad.jpg"><img class="alignnone size-full wp-image-647" alt="quad" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/09/quad.jpg" width="498" height="263" /></a>
+<a href="/images/uploads/2014/09/quad.jpg"><img class="alignnone size-full wp-image-647" alt="quad" src="/images/uploads/2014/09/quad.jpg" width="498" height="263" /></a>
 
 <table class="datatable1" width="100%">
 

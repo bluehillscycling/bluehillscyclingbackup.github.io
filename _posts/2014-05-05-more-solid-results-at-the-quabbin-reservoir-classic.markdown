@@ -127,7 +127,7 @@ comments: []
 
 
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/Rich.jpg"><img class="alignnone size-full wp-image-335" alt="Rich" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/05/Rich.jpg" width="545" height="388" /></a>
+<a href="/images/uploads/2014/05/Rich.jpg"><img class="alignnone size-full wp-image-335" alt="Rich" src="/images/uploads/2014/05/Rich.jpg" width="545" height="388" /></a>
 
 <table class="datatable1" width="100%">
 

@@ -27,7 +27,7 @@ comments: []
 
 
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/08/pan-mass.jpg"><img class="alignnone size-full wp-image-551" alt="pan-mass" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/08/pan-mass.jpg" width="500" height="375" /></a>
+<a href="/images/uploads/2014/08/pan-mass.jpg"><img class="alignnone size-full wp-image-551" alt="pan-mass" src="/images/uploads/2014/08/pan-mass.jpg" width="500" height="375" /></a>
 
 
 

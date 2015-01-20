@@ -39,7 +39,7 @@ title: Silk City Cyclocross
 
 </table>
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/09/adam41.png"><img class="alignnone size-full wp-image-669" alt="adam4" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/09/adam41.png" width="500" height="331" /></a>
+<a href="/images/uploads/2014/09/adam41.png"><img class="alignnone size-full wp-image-669" alt="adam4" src="/images/uploads/2014/09/adam41.png" width="500" height="331" /></a>
 
 
 

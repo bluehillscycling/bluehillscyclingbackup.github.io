@@ -8,7 +8,7 @@ title: Hampshire 100 Mountain Bike Race
 
 <h5>Scott Taylor Pictured Below with his First Place Wind Chimes</h5>
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/08/20140817_162323_resized.jpg"><img class="alignnone size-full wp-image-601" alt="20140817_162323_resized" src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/08/20140817_162323_resized.jpg" width="500" height="281" /></a>
+<a href="/images/uploads/2014/08/20140817_162323_resized.jpg"><img class="alignnone size-full wp-image-601" alt="20140817_162323_resized" src="/images/uploads/2014/08/20140817_162323_resized.jpg" width="500" height="281" /></a>
 
 
 
@@ -16,5 +16,5 @@ title: Hampshire 100 Mountain Bike Race
 
 <h5>Ted Myles on the Podium </h5>
 
-<a href="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/08/Ted.jpg"><img src="http://www.bluehillscycling.com/BHCC-3/wp-content/uploads/2014/08/Ted.jpg" alt="Ted" width="500" height="281" class="alignnone size-full wp-image-604" /></a>
+<a href="/images/uploads/2014/08/Ted.jpg"><img src="/images/uploads/2014/08/Ted.jpg" alt="Ted" width="500" height="281" class="alignnone size-full wp-image-604" /></a>
 		
