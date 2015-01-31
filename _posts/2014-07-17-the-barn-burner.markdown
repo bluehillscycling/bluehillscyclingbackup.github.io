@@ -35,7 +35,7 @@ Check out the post race interviews and video highlights  at <a href="http://di
 
 
 
-[iframe id="viddler-3c7f41fd" src="//www.viddler.com/embed/3c7f41fd/?f=1&amp;offset=0&amp;autoplay=0&amp;player=full&amp;secret=11610842&amp;disablebranding=0&amp;view_secret=11610842" width="500" height="320" frameborder="0" mozallowfullscreen="true" webkitallowfullscreen="true" iframe]
+<iframe id="viddler-3c7f41fd" src="//www.viddler.com/embed/3c7f41fd/?f=1&amp;offset=0&amp;autoplay=0&amp;player=full&amp;secret=11610842&amp;disablebranding=0&amp;view_secret=11610842" width="500" height="320" frameborder="0" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
@@ -47,5 +47,5 @@ Check out the post race interviews and video highlights  at <a href="http://di
 
 
 
-[iframe id="viddler-9f5a75e3" src="//www.viddler.com/embed/9f5a75e3/?f=1&amp;offset=0&amp;autoplay=0&amp;player=full&amp;secret=76862013&amp;disablebranding=0&amp;view_secret=76862013" width="500" height="320" frameborder="0" mozallowfullscreen="true" webkitallowfullscreen="true" iframe]]]></content:encoded>
+<iframe id="viddler-9f5a75e3" src="//www.viddler.com/embed/9f5a75e3/?f=1&amp;offset=0&amp;autoplay=0&amp;player=full&amp;secret=76862013&amp;disablebranding=0&amp;view_secret=76862013" width="500" height="320" frameborder="0" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 	
