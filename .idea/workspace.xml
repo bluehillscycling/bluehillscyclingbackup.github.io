@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f756c108-8f06-4d6f-843b-d1be276092dd" name="Default" comment="Removed Jquery modal scripts">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-05-09-Mt-Blue-Criterium.md" afterPath="$PROJECT_DIR$/_posts/2015-05-09-Mt-Blue-Criterium.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page10/index.html" afterPath="$PROJECT_DIR$/_site/page10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page11/index.html" afterPath="$PROJECT_DIR$/_site/page11/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page12/index.html" afterPath="$PROJECT_DIR$/_site/page12/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page13/index.html" afterPath="$PROJECT_DIR$/_site/page13/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page14/index.html" afterPath="$PROJECT_DIR$/_site/page14/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page15/index.html" afterPath="$PROJECT_DIR$/_site/page15/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page16/index.html" afterPath="$PROJECT_DIR$/_site/page16/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page17/index.html" afterPath="$PROJECT_DIR$/_site/page17/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page18/index.html" afterPath="$PROJECT_DIR$/_site/page18/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page19/index.html" afterPath="$PROJECT_DIR$/_site/page19/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page2/index.html" afterPath="$PROJECT_DIR$/_site/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page20/index.html" afterPath="$PROJECT_DIR$/_site/page20/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page21/index.html" afterPath="$PROJECT_DIR$/_site/page21/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page3/index.html" afterPath="$PROJECT_DIR$/_site/page3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page4/index.html" afterPath="$PROJECT_DIR$/_site/page4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page5/index.html" afterPath="$PROJECT_DIR$/_site/page5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page6/index.html" afterPath="$PROJECT_DIR$/_site/page6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page7/index.html" afterPath="$PROJECT_DIR$/_site/page7/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page8/index.html" afterPath="$PROJECT_DIR$/_site/page8/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page9/index.html" afterPath="$PROJECT_DIR$/_site/page9/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/bootstrap/js/main.js" afterPath="$PROJECT_DIR$/_site/bootstrap/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bluehillscycling.github.io.iws" />
@@ -73,7 +50,7 @@
       <file leaf-file-name="Mt-Blue-Criterium.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_site/2015/05/09/Mt-Blue-Criterium.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.4308797">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -252,6 +229,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/bootstrap/js/main.js" />
         <option value="$PROJECT_DIR$/_posts/2015-05-09-Mt-Blue-Criterium.md" />
+        <option value="$PROJECT_DIR$/_site/2015/05/09/Mt-Blue-Criterium.html" />
       </list>
     </option>
   </component>
@@ -263,8 +241,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="135" />
-    <option name="y" value="152" />
+    <option name="x" value="150" />
+    <option name="y" value="48" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
@@ -349,6 +327,56 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2014" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -441,7 +469,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="152" width="1920" height="1057" extended-state="0" />
+    <frame x="150" y="48" width="1920" height="1057" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38360325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -874,7 +902,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/2015/05/09/Mt-Blue-Criterium.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-0.4308797">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
