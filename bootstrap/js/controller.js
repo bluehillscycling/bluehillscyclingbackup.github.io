@@ -17,7 +17,7 @@ bhcccApp.controller('RaceTeamCtrl', function($scope, $http) {
 
 
     $scope.show = function(modalName){
-        //--
+        
         modalName = "#rider-modal-" + modalName;
         var modalDefaultHeight = 500;
 
