@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f756c108-8f06-4d6f-843b-d1be276092dd" name="Default" comment="Removed Jquery modal scripts">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page10/index.html" afterPath="$PROJECT_DIR$/_site/page10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page11/index.html" afterPath="$PROJECT_DIR$/_site/page11/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page12/index.html" afterPath="$PROJECT_DIR$/_site/page12/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page13/index.html" afterPath="$PROJECT_DIR$/_site/page13/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page14/index.html" afterPath="$PROJECT_DIR$/_site/page14/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page15/index.html" afterPath="$PROJECT_DIR$/_site/page15/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page16/index.html" afterPath="$PROJECT_DIR$/_site/page16/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page17/index.html" afterPath="$PROJECT_DIR$/_site/page17/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page18/index.html" afterPath="$PROJECT_DIR$/_site/page18/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page19/index.html" afterPath="$PROJECT_DIR$/_site/page19/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page2/index.html" afterPath="$PROJECT_DIR$/_site/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page20/index.html" afterPath="$PROJECT_DIR$/_site/page20/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page21/index.html" afterPath="$PROJECT_DIR$/_site/page21/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page22/index.html" afterPath="$PROJECT_DIR$/_site/page22/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page3/index.html" afterPath="$PROJECT_DIR$/_site/page3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page4/index.html" afterPath="$PROJECT_DIR$/_site/page4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page5/index.html" afterPath="$PROJECT_DIR$/_site/page5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page6/index.html" afterPath="$PROJECT_DIR$/_site/page6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page7/index.html" afterPath="$PROJECT_DIR$/_site/page7/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page8/index.html" afterPath="$PROJECT_DIR$/_site/page8/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page9/index.html" afterPath="$PROJECT_DIR$/_site/page9/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-05-19-Weeping-Willow.md" afterPath="$PROJECT_DIR$/_posts/2015-05-19-Weeping-Willow.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bluehillscycling.github.io.iws" />
@@ -110,14 +88,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56962025">
+            <state vertical-scroll-proportion="-13.125">
               <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-05-19-Weeping-Willow.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-05-19-Weeping-Willow.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3010949">
+              <caret line="11" column="94" selection-start-line="11" selection-start-column="94" selection-end-line="11" selection-end-column="94" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -154,16 +145,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="163" selection-start-line="12" selection-start-column="163" selection-end-line="12" selection-end-column="163" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -195,6 +176,7 @@
         <option value="$PROJECT_DIR$/_site/new-page.html" />
         <option value="$PROJECT_DIR$/bootstrap/js/controller.js" />
         <option value="$PROJECT_DIR$/race_team/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2015-05-19-Weeping-Willow.md" />
       </list>
     </option>
   </component>
@@ -206,9 +188,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="181" />
-    <option name="y" value="115" />
-    <option name="width" value="1600" />
+    <option name="x" value="108" />
+    <option name="y" value="147" />
+    <option name="width" value="1885" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -291,7 +273,53 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bluehillscycling.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -398,15 +426,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="115" width="1600" height="1053" extended-state="0" />
+    <frame x="108" y="147" width="1885" height="1053" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3851626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3851626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.383125" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32519895" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14271255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -467,14 +495,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="163" selection-start-line="12" selection-start-column="163" selection-end-line="12" selection-end-column="163" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2012-11-6-New Websote.markdown">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -868,11 +888,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56962025">
+        <state vertical-scroll-proportion="-13.125">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-05-19-Weeping-Willow.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3010949">
+          <caret line="11" column="94" selection-start-line="11" selection-start-column="94" selection-end-line="11" selection-end-column="94" />
+          <folding />
         </state>
       </provider>
     </entry>
