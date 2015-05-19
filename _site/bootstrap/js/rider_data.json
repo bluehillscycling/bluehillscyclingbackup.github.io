@@ -70,7 +70,7 @@
   },
   {
   "id":1,
-  "name": "Pete Wermer",
+  "name": "Pete Werner",
   "age": "39",
   "road": "CAT4",
   "mtb": "CAT1",
@@ -306,6 +306,23 @@
 	"personal_note": "Love bikes. Love the life we lead, the friends we have and the opportunities for epic adventures that come our way as a result of riding them- a lot.  My mission is to get EVERY one I meet on a bike.",
 	"thumbnail": "/images/race_team/thumbs/scott_taylor.jpg",
 	"mainimage": "/images/race_team/large/scott_taylor.png"
+
+  },
+  {
+	"id":1,
+	"name": "Austin Guyette",
+	"age": "",
+	"road": "CAT4",
+	"mtb": "",
+	"cx": "",
+	"title": "",
+	"road_bike":"Kona Zing",
+	"mountain_bike":"",
+	"cross_bike": "",
+	"favorite_race":"Concord Criterium",
+	"personal_note": "",
+	"thumbnail": "/images/race_team/thumbs/austin.png",
+	"mainimage": "/images/race_team/large/austin.png"
 
   }
 
