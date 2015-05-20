@@ -324,6 +324,23 @@
 	"thumbnail": "/images/race_team/thumbs/austin.png",
 	"mainimage": "/images/race_team/large/austin.png"
 
+  },
+  {
+	"id":1,
+	"name": "Nick Leger",
+	"age": "29",
+	"road": "CAT5",
+	"mtb": "",
+	"cx": "",
+	"title": "",
+	"road_bike":"Blue Competition",
+	"mountain_bike":"",
+	"cross_bike": "",
+	"favorite_race":"Jamestown Classic",
+	"personal_note": "",
+	"thumbnail": "/images/race_team/thumbs/nickleger.jpg",
+	"mainimage": "/images/race_team/large/nickleger.png"
+
   }
 
 
