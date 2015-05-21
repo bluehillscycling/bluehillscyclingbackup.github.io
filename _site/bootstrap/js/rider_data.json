@@ -341,6 +341,22 @@
 	"thumbnail": "/images/race_team/thumbs/nickleger.jpg",
 	"mainimage": "/images/race_team/large/nickleger.png"
 
+  },
+  {
+	"id":1,
+	"name": "John Lacks",
+	"age": "36",
+	"road": "",
+	"mtb": "CAT2",
+	"cx": "",
+	"title": "",
+	"mountain_bike":" Giant Anthem Advanced",
+	"cross_bike": "Giant TCX",
+	"favorite_race":"Landmine Classic",
+	"personal_note": "Do something today that your future self will thank you for",
+	"thumbnail": "/images/race_team/thumbs/lacks.jpg",
+	"mainimage": "/images/race_team/large/lacks.png"
+
   }
 
 
