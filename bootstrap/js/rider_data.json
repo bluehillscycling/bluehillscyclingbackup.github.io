@@ -23,11 +23,11 @@
 	"road": "",
 	"mtb": "Pro",
 	"cx":"CAT1",
-	"road_bike":"Specialized Tarmac",
+	"road_bike":"Is dead to me",
 	"title": "MTB Race Team Director",
 	"title_short": "Mountain:",
-	"mountain_bike":"Specialized Epic",
-	"favorite_race":"Winding Trails",
+	"mountain_bike":"Niner Jet 9",
+	"favorite_race":"Gnar Weasels",
 	"personal_note": "MTBers who don't ride road are usually slow. Roadies who don't ride MTB are usually [expletive]",
 	"thumbnail": "/images/race_team/thumbs/Pete.jpg",
 	"mainimage": "/images/race_team/large/Pete.png",
@@ -60,6 +60,7 @@
     "road": "CAT4",
     "mtb": "CAT1",
 	"cx":"CAT3",
+	"title":"\"30 Tooth Phill\"",
     "road_bike":"Cervelo S5",
     "mountain_bike":"Specialized Epic",
     "favorite_race":"Vermont 50",
@@ -344,7 +345,7 @@
   },
   {
 	"id":1,
-	"name": "John Lacks",
+	"name": "Jon Lacks",
 	"age": "36",
 	"road": "",
 	"mtb": "CAT2",
@@ -357,7 +358,79 @@
 	"thumbnail": "/images/race_team/thumbs/lacks.jpg",
 	"mainimage": "/images/race_team/large/lacks.png"
 
+  },
+
+  {
+	"id":1,
+    "name": "Karl Sineath",
+    "age": "36",
+    "road": "CAT3",
+    "mtb": "CAT2",
+    "cx": "CAT2",
+    "title": "",
+    "mountain_bike":"Trek Superfly",
+    "cross_bike": "Ridley X-Fire",
+	"road_bike":" Team Euskatel Orbea 2004",
+    "favorite_race":"The Next One",
+    "personal_note": "Krabbe: \"After the finish, all the suffering turns to memories of pleasure, and the greater the suffering, the greater the pleasure. That is Nature's payback to riders for the homage they pay her by suffering.\" ",
+    "thumbnail": "/images/race_team/thumbs/karl.jpg",
+    "mainimage": "/images/race_team/large/karl.png"
+
+},
+  {
+	"id": 1,
+	"name": "Mike Morse",
+	"age": "30",
+	"road": "CAT4",
+	"mtb": "CAT1",
+	"cx": "CAT3",
+	"title": "",
+	"mountain_bike": "Specialized Epic",
+	"cross_bike": "On One Dirty Disco",
+	"road_bike": "Cannondale Supersix",
+	"favorite_race": "Weeping Willow,Orchard Cross, Hilltowns",
+	"personal_note": "Can't out train a crappy diet",
+	"thumbnail": "/images/race_team/thumbs/mike_morse.jpg",
+	"mainimage": "/images/race_team/large/mike_morse.png"
+  },
+
+  {
+	"id":1,
+	"name": "Travis Burleson",
+	"age": "39",
+	"road": "CAT5",
+	"mtb": "",
+	"cx": "CAT4",
+	"title": "",
+	"mountain_bike":"",
+	"cross_bike": "Specialized Crux",
+	"road_bike":"Giant TCR",
+	"favorite_race":"The one I just finished",
+	"personal_note": "Utram bibis?  Aquam an anduam?",
+	"thumbnail": "/images/race_team/thumbs/travis.jpg",
+	"mainimage": "/images/race_team/large/travis.png"
+
+  },
+
+  {
+	"id":1,
+	"name": "Brian Albert",
+	"age": "34",
+	"road": "CAT4",
+	"mtb": "",
+	"cx": "CAT4",
+	"title": "",
+	"mountain_bike":"",
+	"cross_bike": "Felt F5",
+	"road_bike":"Cervelo S2",
+	"favorite_race":"Jamestown Classic, Orchard Cross",
+	"personal_note": "",
+	"thumbnail": "/images/race_team/thumbs/brian_albert.jpg",
+	"mainimage": "/images/race_team/large/brian_albert.png"
+
   }
+
+
 
 
 
